@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Clientes>
+  <Cliente>
+    <Codigo>1</Codigo>
+    <Nombre>Leandro</Nombre>
+    <Apellido>Troncoso</Apellido>
+    <DNI>40857240</DNI>
+    <Email>leandro@gmail.com</Email>
+  </Cliente>
+  <Cliente>
+    <Codigo>20</Codigo>
+    <Nombre>Juan</Nombre>
+    <Apellido>Torres</Apellido>
+    <DNI>20569874</DNI>
+    <Email>Juan@gmail.com</Email>
+  </Cliente>
+  <Cliente>
+    <Codigo>25</Codigo>
+    <Nombre>Simona</Nombre>
+    <Apellido>Blunt</Apellido>
+    <DNI>75897632</DNI>
+    <Email>Simona@gmai.com</Email>
+  </Cliente>
+</Clientes>

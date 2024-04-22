@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Productos>
+  <Producto>
+    <Codigo>EEE456</Codigo>
+    <Descripcion>Lampara</Descripcion>
+    <Marca>Philip</Marca>
+    <PrecioUnitario>14,20</PrecioUnitario>
+    <Cantidad>33</Cantidad>
+    <Estado>True</Estado>
+    <Proveedor>E002</Proveedor>
+    <Categoria>1</Categoria>
+  </Producto>
+</Productos>

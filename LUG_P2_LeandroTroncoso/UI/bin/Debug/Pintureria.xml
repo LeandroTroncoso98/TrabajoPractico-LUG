@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Productos>
+  <Producto>
+    <Codigo>P001</Codigo>
+    <Descripcion>Brocha</Descripcion>
+    <Marca>Stanley</Marca>
+    <PrecioUnitario>13,50</PrecioUnitario>
+    <Cantidad>90</Cantidad>
+    <Estado>True</Estado>
+    <Proveedor>P002</Proveedor>
+    <Color>marron</Color>
+  </Producto>
+</Productos>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Contratados>
+  <Producto>
+    <Codigo>P001</Codigo>
+    <Descripcion>Brocha</Descripcion>
+    <Marca>Stanley</Marca>
+    <PrecioUnitario>13,50</PrecioUnitario>
+    <Cantidad>90</Cantidad>
+    <Proveedor>P002</Proveedor>
+    <PrecioTotal>546,750</PrecioTotal>
+    <Estado>True</Estado>
+    <TipoProducto>Pintura</TipoProducto>
+    <ClienteCodigo>1</ClienteCodigo>
+  </Producto>
+  <Producto>
+    <Codigo>E456</Codigo>
+    <Descripcion>Lampara</Descripcion>
+    <Marca>Philip</Marca>
+    <PrecioUnitario>14,20</PrecioUnitario>
+    <Cantidad>50</Cantidad>
+    <Proveedor>E002</Proveedor>
+    <PrecioTotal>56,800</PrecioTotal>
+    <Estado>True</Estado>
+    <TipoProducto>Electricidad</TipoProducto>
+    <ClienteCodigo>20</ClienteCodigo>
+  </Producto>
+</Contratados>

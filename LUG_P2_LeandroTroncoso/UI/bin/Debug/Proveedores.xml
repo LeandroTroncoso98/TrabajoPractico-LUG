@@ -1,0 +1,22 @@
+<Proveedores>
+	<Proveedor>
+		<Codigo>P001</Codigo>
+		<RazonSocial>Pinturas y Revestimientos S.A.</RazonSocial>
+		<CUIT>30111111119</CUIT>
+	</Proveedor>
+	<Proveedor>
+		<Codigo>P002</Codigo>
+		<RazonSocial>ColorExpress Pinturerías</RazonSocial>
+		<CUIT>30222222220</CUIT>
+	</Proveedor>
+	<Proveedor>
+		<Codigo>E001</Codigo>
+		<RazonSocial>Energía y Conexiones Ltda.</RazonSocial>
+		<CUIT>30333333331</CUIT>
+	</Proveedor>
+	<Proveedor>
+		<Codigo>E002</Codigo>
+		<RazonSocial>Iluminación Innovadora S.R.L.</RazonSocial>
+		<CUIT>30444444442</CUIT>
+	</Proveedor>
+</Proveedores>
